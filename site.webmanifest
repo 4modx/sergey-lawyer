@@ -1,0 +1,19 @@
+{
+  "name": "Сергей Седельников — юрист",
+  "short_name": "С. Седельников",
+  "description": "Юрист с 19-летней практикой: земельные и наследственные споры, недвижимость, банкротство физических лиц.",
+  "lang": "ru-RU",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
